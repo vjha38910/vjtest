@@ -1,2 +1,2 @@
 # vjtest
-for scenario creation
+for scenario creation in postman
